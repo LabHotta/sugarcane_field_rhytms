@@ -1,0 +1,25 @@
+ZT	Timecourses	Group
+0	844	diurnal - circadian
+2	750	diurnal - circadian
+4	234	diurnal - circadian
+6	269	diurnal - circadian
+8	256	diurnal - circadian
+10	387	diurnal - circadian
+12	572	diurnal - circadian
+14	328	diurnal - circadian
+16	38	diurnal - circadian
+18	53	diurnal - circadian
+20	3	diurnal - circadian
+22	341	diurnal - circadian
+0	268	diurnal U circadian
+2	501	diurnal U circadian
+4	122	diurnal U circadian
+6	129	diurnal U circadian
+8	119	diurnal U circadian
+10	272	diurnal U circadian
+12	659	diurnal U circadian
+14	349	diurnal U circadian
+16	23	diurnal U circadian
+18	37	diurnal U circadian
+20	0	diurnal U circadian
+22	150	diurnal U circadian

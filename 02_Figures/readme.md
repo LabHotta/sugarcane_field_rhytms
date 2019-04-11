@@ -1,0 +1,1 @@
+Each folder contains the code used to make the figures. The Figures had some aesthetic modifications done using Inkscape. Some Figures were made merging different panels in Inkscape. 

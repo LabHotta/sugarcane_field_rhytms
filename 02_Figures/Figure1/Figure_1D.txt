@@ -1,0 +1,25 @@
+category	Numbers	column
+others	0	expressed
+L1 only	199	expressed
+I1 only	933	expressed
+I5 only	135	expressed
+L1I1	128	expressed
+L1I5	115	expressed
+I1I5	1611	expressed
+all	9380	expressed
+others	923	rhythmic
+L1 only	3289	rhythmic
+I1 only	401	rhythmic
+I5 only	319	rhythmic
+L1I1	1005	rhythmic
+L1I5	722	rhythmic
+I1I5	442	rhythmic
+all	1413	rhythmic
+others	1692	same phase
+L1 only	0	same phase
+I1 only	0	same phase
+I5 only	0	same phase
+L1I1	38	same phase
+L1I5	19	same phase
+I1I5	274	same phase
+all	923	same phase

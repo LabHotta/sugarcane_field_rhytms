@@ -1,0 +1,16 @@
+group	rhythmic	organ
+I5_all	28.8	rhythmic in I5
+I5	8.39	rhythmic in I5
+I5_I1I5	18.9	rhythmic in I5
+I5_L1I5	25.2	rhythmic in I5
+I5_L1I1I5	30.9	rhythmic in I5
+I1_all	31.2	rhythmic in I1
+I1	8.6	rhythmic in I1
+I1_L1I1	14.8	rhythmic in I1
+I1_I1I5	24.5	rhythmic in I1
+I1_L1I1I5	34.8	rhythmic in I1
+L1_all	68.3	rhythmic in L1
+L1	60.3	rhythmic in L1
+L1_L1I1	61.7	rhythmic in L1
+L1_L1I5	67	rhythmic in L1
+L1_L1I1I5	69	rhythmic in L1

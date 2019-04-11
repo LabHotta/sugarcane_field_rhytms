@@ -1,0 +1,9 @@
+Organ	Type	Count
+leaf +1 circadian	expressed	9932
+leaf +1	expressed	9822
+internode 1/2	expressed	12053
+internode 5	expressed	10448
+leaf +1 circadian	rhythmic	3189
+leaf +1	rhythmic	6705
+internode 1/2	rhythmic	3755
+internode 5	rhythmic	3242
